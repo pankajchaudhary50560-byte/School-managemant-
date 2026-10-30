@@ -1,0 +1,6 @@
+{
+  "name": "SP Chaudhary Attendance Management System",
+  "description": "Complete, responsive attendance management system for SP Chaudhary School with class filtering, instant present/absent toggling, mobile-friendly touch cards, print registers, and attendance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
